@@ -1,0 +1,13 @@
+Package: GSE163173
+Title: Load and Process GEO Dataset GSE163173
+Version: 0.0.0.9000
+Authors@R: 
+    person("Steven", "Eschrich", , "Steven.Eschrich@moffitt.org", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: The GEO dataset GSE163173 is a dataset of HPV-infected oropharyngeal head and neck cancer
+  FFPE samples profiled on the Clariom D array. This package loads the data and computes a few gene
+  signatures against it for use in research studies.
+License: Apache License (>= 2)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
